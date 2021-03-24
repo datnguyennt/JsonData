@@ -1,0 +1,356 @@
+[
+ {
+   "Location": "Alabama",
+   "Confirmed Cases": "112126",
+   "Probable Cases": "7128",
+   "Total Cases": 119254
+ },
+ {
+   "Location": "Alaska",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 4895
+ },
+ {
+   "Location": "American Samoa",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 0
+ },
+ {
+   "Location": "Arizona",
+   "Confirmed Cases": "197844",
+   "Probable Cases": "1615",
+   "Total Cases": 199459
+ },
+ {
+   "Location": "Arkansas",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 58023
+ },
+ {
+   "Location": "California",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 679099
+ },
+ {
+   "Location": "Colorado",
+   "Confirmed Cases": "52229",
+   "Probable Cases": "3765",
+   "Total Cases": 55994
+ },
+ {
+   "Location": "Connecticut",
+   "Confirmed Cases": "50134",
+   "Probable Cases": "2086",
+   "Total Cases": 52220
+ },
+ {
+   "Location": "Delaware",
+   "Confirmed Cases": "15987",
+   "Probable Cases": "989",
+   "Total Cases": 16976
+ },
+ {
+   "Location": "Florida",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 602113
+ },
+ {
+   "Location": "Georgia",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 260590
+ },
+ {
+   "Location": "Guam",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 1232
+ },
+ {
+   "Location": "Hawaii",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 6738
+ },
+ {
+   "Location": "Idaho",
+   "Confirmed Cases": "28556",
+   "Probable Cases": "2224",
+   "Total Cases": 30780
+ },
+ {
+   "Location": "Illinois",
+   "Confirmed Cases": "225627",
+   "Probable Cases": "1417",
+   "Total Cases": 227044
+ },
+ {
+   "Location": "Indiana",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 89359
+ },
+ {
+   "Location": "Iowa",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 58215
+ },
+ {
+   "Location": "Kansas",
+   "Confirmed Cases": "38807",
+   "Probable Cases": "1130",
+   "Total Cases": 39937
+ },
+ {
+   "Location": "Kentucky",
+   "Confirmed Cases": "41567",
+   "Probable Cases": "3663",
+   "Total Cases": 45230
+ },
+ {
+   "Location": "Louisiana",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 145661
+ },
+ {
+   "Location": "Maine",
+   "Confirmed Cases": "3963",
+   "Probable Cases": "453",
+   "Total Cases": 4416
+ },
+ {
+   "Location": "Marshall Islands",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 0
+ },
+ {
+   "Location": "Maryland",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 106063
+ },
+ {
+   "Location": "Massachusetts",
+   "Confirmed Cases": "117085",
+   "Probable Cases": "9418",
+   "Total Cases": 126503
+ },
+ {
+   "Location": "Michigan",
+   "Confirmed Cases": "99200",
+   "Probable Cases": "10280",
+   "Total Cases": 109480
+ },
+ {
+   "Location": "Micronesia",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 0
+ },
+ {
+   "Location": "Minnesota",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 72390
+ },
+ {
+   "Location": "Mississippi",
+   "Confirmed Cases": "77323",
+   "Probable Cases": "3372",
+   "Total Cases": 80695
+ },
+ {
+   "Location": "Missouri",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 78062
+ },
+ {
+   "Location": "Montana",
+   "Confirmed Cases": "6785",
+   "Probable Cases": "0",
+   "Total Cases": 6785
+ },
+ {
+   "Location": "Nebraska",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 32727
+ },
+ {
+   "Location": "Nevada",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 66938
+ },
+ {
+   "Location": "New Hampshire",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 7159
+ },
+ {
+   "Location": "New Jersey",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 190306
+ },
+ {
+   "Location": "New Mexico",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 24732
+ },
+ {
+   "Location": "New York",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 432458
+ },
+ {
+   "Location": "North Carolina",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 158985
+ },
+ {
+   "Location": "North Dakota",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 10800
+ },
+ {
+   "Location": "Northern Marianas",
+   "Confirmed Cases": "54",
+   "Probable Cases": "0",
+   "Total Cases": 54
+ },
+ {
+   "Location": "Ohio",
+   "Confirmed Cases": "111331",
+   "Probable Cases": "6253",
+   "Total Cases": 117584
+ },
+ {
+   "Location": "Oklahoma",
+   "Confirmed Cases": "54821",
+   "Probable Cases": "4894",
+   "Total Cases": 59715
+ },
+ {
+   "Location": "Oregon",
+   "Confirmed Cases": "24289",
+   "Probable Cases": "1282",
+   "Total Cases": 25571
+ },
+ {
+   "Location": "Palau",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 0
+ },
+ {
+   "Location": "Pennsylvania",
+   "Confirmed Cases": "126835",
+   "Probable Cases": "3701",
+   "Total Cases": 130536
+ },
+ {
+   "Location": "Puerto Rico",
+   "Confirmed Cases": "14469",
+   "Probable Cases": "16914",
+   "Total Cases": 31383
+ },
+ {
+   "Location": "Rhode Island",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 21454
+ },
+ {
+   "Location": "South Carolina",
+   "Confirmed Cases": "112643",
+   "Probable Cases": "1450",
+   "Total Cases": 114093
+ },
+ {
+   "Location": "South Dakota",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 11571
+ },
+ {
+   "Location": "Tennessee",
+   "Confirmed Cases": "144060",
+   "Probable Cases": "3293",
+   "Total Cases": 147353
+ },
+ {
+   "Location": "Texas",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 592137
+ },
+ {
+   "Location": "Utah",
+   "Confirmed Cases": "50434",
+   "Probable Cases": "436",
+   "Total Cases": 50870
+ },
+ {
+   "Location": "Vermont",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 1577
+ },
+ {
+   "Location": "Virgin Islands",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 1052
+ },
+ {
+   "Location": "Virginia",
+   "Confirmed Cases": "111484",
+   "Probable Cases": "5095",
+   "Total Cases": 116579
+ },
+ {
+   "Location": "Washington",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 72161
+ },
+ {
+   "Location": "Washington D.C.",
+   "Confirmed Cases": "N/A",
+   "Probable Cases": "N/A",
+   "Total Cases": 13722
+ },
+ {
+   "Location": "West Virginia",
+   "Confirmed Cases": "9364",
+   "Probable Cases": "176",
+   "Total Cases": 9540
+ },
+ {
+   "Location": "Wisconsin",
+   "Confirmed Cases": "72260",
+   "Probable Cases": "4832",
+   "Total Cases": 77092
+ },
+ {
+   "Location": "Wyoming",
+   "Confirmed Cases": "3135",
+   "Probable Cases": "549",
+   "Total Cases": 3684
+ }
+]
