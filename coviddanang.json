@@ -1,0 +1,3503 @@
+[
+   {
+      "BenhNhanSo":1040,
+      "HoTen":"T.P.H",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"29/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1965,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":1037,
+      "HoTen":"H.T.K.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"28/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1991,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1036,
+      "HoTen":"H.K.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"27/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1958,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":1029,
+      "HoTen":"P.T.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"25/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1974,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1028,
+      "HoTen":"D.T. T. T. L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"25/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2000,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1027,
+      "HoTen":"P.V.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"25/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1977,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":1026,
+      "HoTen":"P. T. T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"25/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1999,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1025,
+      "HoTen":"P.Q",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"25/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1950,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":1024,
+      "HoTen":"N.T. T. H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"25/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2004,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1023,
+      "HoTen":"N.P.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"25/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2000,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":1020,
+      "HoTen":"P.H.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"24/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1994,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":1019,
+      "HoTen":"P.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"24/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1983,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1018,
+      "HoTen":"D.C.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"24/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1963,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":1017,
+      "HoTen":"N.T.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"24/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1952,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1015,
+      "HoTen":"N.T.B.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"23/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1976,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1014,
+      "HoTen":"L.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"22/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1960,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":1013,
+      "HoTen":"H.T.L.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"22/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1969,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1012,
+      "HoTen":"T. T. S",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"22/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1951,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1011,
+      "HoTen":"T. T. M. H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"22/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1982,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1010,
+      "HoTen":"N.V.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"22/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1968,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":1009,
+      "HoTen":"D.D.V",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"21/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1973,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":1008,
+      "HoTen":"N.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"21/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1945,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1006,
+      "HoTen":"N.T. T. N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"20/08/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1972,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1005,
+      "HoTen":"H.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"20/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1962,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1004,
+      "HoTen":"H.T.M.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"20/08/2020",
+      "TinhThanh":"Phu Yen",
+      "NamSinh":1976,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1003,
+      "HoTen":"P.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"20/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1955,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1002,
+      "HoTen":"N.T.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"20/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1965,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":1001,
+      "HoTen":"N.P.L.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"20/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1996,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":998,
+      "HoTen":"T.V.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"20/08/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1973,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":997,
+      "HoTen":"T. T. T. N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"20/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1980,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":996,
+      "HoTen":"P.H.T",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"20/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1992,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":995,
+      "HoTen":"N. T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"20/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1971,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":994,
+      "HoTen":"N.N.K.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"20/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1982,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":992,
+      "HoTen":"T. T. P. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"19/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1983,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":990,
+      "HoTen":"T. T. T. H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"19/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1995,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":988,
+      "HoTen":"T.N.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"18/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1990,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":987,
+      "HoTen":"D.T.K.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"18/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1974,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":986,
+      "HoTen":"N.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"18/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1966,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":985,
+      "HoTen":"N.T.S",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"18/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1955,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":975,
+      "HoTen":"N. T. B. H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"17/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1987,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":974,
+      "HoTen":"N.V.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"17/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1987,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":968,
+      "HoTen":"T.C.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"17/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1971,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":967,
+      "HoTen":"P.T.V.K",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"17/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1964,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":966,
+      "HoTen":"D.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"17/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1964,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":965,
+      "HoTen":"N. T. T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"17/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1985,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":961,
+      "HoTen":"N.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"16/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1988,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":958,
+      "HoTen":"H.T. M",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"16/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1974,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":957,
+      "HoTen":"H.T.C",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"16/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1953,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":956,
+      "HoTen":"P.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"16/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1980,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":955,
+      "HoTen":"D.T.B.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"16/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1989,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":954,
+      "HoTen":"N.N.B.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"16/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2020,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":953,
+      "HoTen":"L.T.K.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"16/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1964,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":952,
+      "HoTen":"D.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"16/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1963,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":945,
+      "HoTen":"H.L.S.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"15/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2001,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":944,
+      "HoTen":"T. T. M. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"15/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1984,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":943,
+      "HoTen":"H.Q.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"15/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1989,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":942,
+      "HoTen":"T. T. N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"15/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1958,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":941,
+      "HoTen":"N.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"15/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1992,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":940,
+      "HoTen":"L.T. D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"15/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1970,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":939,
+      "HoTen":"N.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"15/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1954,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":938,
+      "HoTen":"N.V.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"15/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1985,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":937,
+      "HoTen":"N.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"15/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1968,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":936,
+      "HoTen":"H.D.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"15/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1964,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":935,
+      "HoTen":"N.L.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"15/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1929,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":927,
+      "HoTen":"L.T .T. L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1991,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":926,
+      "HoTen":"T.N.X",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1954,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":925,
+      "HoTen":"H.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1974,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":924,
+      "HoTen":"N.T.K.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1983,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":923,
+      "HoTen":"L.N.Q.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1992,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":922,
+      "HoTen":"C.V.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1992,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":921,
+      "HoTen":"N.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1971,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":920,
+      "HoTen":"N.N.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1954,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":919,
+      "HoTen":"N.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1971,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":918,
+      "HoTen":"T.C.A",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1955,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":917,
+      "HoTen":"T.D.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1936,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":916,
+      "HoTen":"K.V.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Binh Dinh",
+      "NamSinh":1986,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":915,
+      "HoTen":"L.H.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1954,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":914,
+      "HoTen":"H.V.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1960,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":913,
+      "HoTen":"T.T. K.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"14/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1961,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":897,
+      "HoTen":"N.V.S",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1985,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":896,
+      "HoTen":"T.T.X",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1947,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":895,
+      "HoTen":"P.N.D.Q",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2003,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":894,
+      "HoTen":"P.N.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1999,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":893,
+      "HoTen":"T.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1972,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":892,
+      "HoTen":"P.N. L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1967,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":891,
+      "HoTen":"N.D.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1981,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":890,
+      "HoTen":"D.S.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1973,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":889,
+      "HoTen":"N. S.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1986,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":888,
+      "HoTen":"N.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1955,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":887,
+      "HoTen":"D.T.X",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1955,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":886,
+      "HoTen":"L.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1956,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":885,
+      "HoTen":"N.T. S",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1957,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":884,
+      "HoTen":"T.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"13/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1969,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":880,
+      "HoTen":"P.V.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1974,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":879,
+      "HoTen":"N.V.Q",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1987,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":878,
+      "HoTen":"V.D.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1990,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":877,
+      "HoTen":"V.D.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1979,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":876,
+      "HoTen":"N.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1947,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":875,
+      "HoTen":"H.L.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1994,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":874,
+      "HoTen":"N.T.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1964,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":873,
+      "HoTen":"T.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1943,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":872,
+      "HoTen":"N.P.M",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1964,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":871,
+      "HoTen":"D.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1961,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":870,
+      "HoTen":"T.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1985,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":869,
+      "HoTen":"P.T.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1937,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":868,
+      "HoTen":"N.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"12/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1962,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":863,
+      "HoTen":"H.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"11/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1968,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":856,
+      "HoTen":"N.V.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"11/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1990,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":855,
+      "HoTen":"N.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"11/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1959,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":854,
+      "HoTen":"N.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"11/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1950,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":853,
+      "HoTen":"P.T.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"11/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2006,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":852,
+      "HoTen":"D.T.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"11/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1980,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":851,
+      "HoTen":"L.T.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"11/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1953,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":850,
+      "HoTen":"T.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"11/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1965,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":849,
+      "HoTen":"N.T.P.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"11/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1981,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":848,
+      "HoTen":"N.T. T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"11/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1942,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":846,
+      "HoTen":"T.T.K",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"10/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2003,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":845,
+      "HoTen":"H.T. T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"10/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1992,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":844,
+      "HoTen":"N.T.D.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"10/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1989,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":843,
+      "HoTen":"T. T. N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"10/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1955,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":831,
+      "HoTen":"D.N.M.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2013,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":830,
+      "HoTen":"T. B. P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2005,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":829,
+      "HoTen":"N.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1971,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":828,
+      "HoTen":"T.B.S",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1959,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":827,
+      "HoTen":"N.N",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1966,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":826,
+      "HoTen":"L.K.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1992,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":825,
+      "HoTen":"D.T.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1960,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":824,
+      "HoTen":"N.V.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1968,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":823,
+      "HoTen":"N.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1977,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":822,
+      "HoTen":"D.T.A.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1963,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":821,
+      "HoTen":"H.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1953,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":820,
+      "HoTen":"V.P.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1935,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":819,
+      "HoTen":"P.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1936,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":818,
+      "HoTen":"T. T. P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1993,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":817,
+      "HoTen":"N.T.P.H.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1977,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":816,
+      "HoTen":"L.T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1981,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":815,
+      "HoTen":"L.M.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1994,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":814,
+      "HoTen":"L.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2015,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":813,
+      "HoTen":"T. T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"09/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1985,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":810,
+      "HoTen":"D.T.P.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1999,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":809,
+      "HoTen":"N.D.A",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1965,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":808,
+      "HoTen":"N.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1992,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":807,
+      "HoTen":"V.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1995,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":806,
+      "HoTen":"N.D.Q",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1982,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":805,
+      "HoTen":"L.T. T.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1980,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":804,
+      "HoTen":"B.T. T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1955,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":803,
+      "HoTen":"N.N.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2007,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":802,
+      "HoTen":"D.T.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1957,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":801,
+      "HoTen":"N.V.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1979,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":800,
+      "HoTen":"L.C.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1955,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":799,
+      "HoTen":"L.D.K",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1962,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":798,
+      "HoTen":"T.H.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2004,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":797,
+      "HoTen":"T.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1959,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":795,
+      "HoTen":"D.T.M",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"08/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1965,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":784,
+      "HoTen":"D.V.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1970,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":783,
+      "HoTen":"V.T.C.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":2003,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":782,
+      "HoTen":"N.T.H.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1993,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":781,
+      "HoTen":"T.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1978,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":780,
+      "HoTen":"D.D.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2011,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":771,
+      "HoTen":"P.T.A.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2002,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":770,
+      "HoTen":"L.N.T.O",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1972,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":769,
+      "HoTen":"N.T.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1990,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":768,
+      "HoTen":"D.V.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1966,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":767,
+      "HoTen":"N.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1949,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":766,
+      "HoTen":"D.T.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1955,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":765,
+      "HoTen":"T.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1944,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":764,
+      "HoTen":"T.B",
+      "TinhTrang":"Tu vong (khong phai do Covid)",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1953,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":763,
+      "HoTen":"L.V.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1974,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":762,
+      "HoTen":"L.X.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1997,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":761,
+      "HoTen":"N.T.T",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Phu Yen",
+      "NamSinh":1937,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":760,
+      "HoTen":"N.V.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1958,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":759,
+      "HoTen":"L.T.M",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1956,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":758,
+      "HoTen":"N.N.H",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1984,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":757,
+      "HoTen":"D.D.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1950,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":756,
+      "HoTen":"N.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1985,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":755,
+      "HoTen":"P.T.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"07/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1947,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":743,
+      "HoTen":"N.T.M.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1992,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":742,
+      "HoTen":"P.T.P",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1951,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":741,
+      "HoTen":"V.L.N.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1997,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":740,
+      "HoTen":"N.T.M.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1962,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":739,
+      "HoTen":"M.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1967,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":738,
+      "HoTen":"P.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1971,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":737,
+      "HoTen":"D.T.L",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1973,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":736,
+      "HoTen":"N.V.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1981,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":735,
+      "HoTen":"V.T.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1973,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":734,
+      "HoTen":"L.T.T.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1991,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":733,
+      "HoTen":"N.T.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1971,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":732,
+      "HoTen":"N.T.S.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1968,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":731,
+      "HoTen":"N.T.P.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1984,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":730,
+      "HoTen":"D.T.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1961,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":728,
+      "HoTen":"T.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1954,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":727,
+      "HoTen":"L.Q.V",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1982,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":726,
+      "HoTen":"L.T.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2019,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":725,
+      "HoTen":"D.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1973,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":724,
+      "HoTen":"P.T.A.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1978,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":718,
+      "HoTen":"V.T.H",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"06/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1953,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":713,
+      "HoTen":"V.H.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1982,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":712,
+      "HoTen":"H.T.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1959,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":711,
+      "HoTen":"P.X.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1996,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":710,
+      "HoTen":"P.H.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1944,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":709,
+      "HoTen":"N.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1987,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":708,
+      "HoTen":"L.D.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1982,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":707,
+      "HoTen":"D.T.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1970,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":706,
+      "HoTen":"N.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1963,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":705,
+      "HoTen":"L.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1961,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":704,
+      "HoTen":"T.N.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1969,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":703,
+      "HoTen":"L.T.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1980,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":702,
+      "HoTen":"N.D.T",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1957,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":701,
+      "HoTen":"N.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1948,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":700,
+      "HoTen":"N.T.X (N.T.H)",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1975,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":699,
+      "HoTen":"N.D",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1945,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":698,
+      "HoTen":"N.T.H",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1969,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":697,
+      "HoTen":"N.T.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1970,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":696,
+      "HoTen":"N.T.B",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1969,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":695,
+      "HoTen":"N.H.Q",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1978,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":694,
+      "HoTen":"N.T.Q.S",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1993,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":693,
+      "HoTen":"N.T.E",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1960,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":692,
+      "HoTen":"N.M.Q",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2018,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":691,
+      "HoTen":"T.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2001,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":690,
+      "HoTen":"P.T.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2001,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":689,
+      "HoTen":"N.T.M.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1970,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":688,
+      "HoTen":"P.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1969,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":687,
+      "HoTen":"M.A.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1982,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":686,
+      "HoTen":"P.T.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1954,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":685,
+      "HoTen":"M.A.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2019,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":684,
+      "HoTen":"P.P.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1964,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":683,
+      "HoTen":"T.S.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1952,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":682,
+      "HoTen":"V.T.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1954,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":681,
+      "HoTen":"V.T.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1948,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":680,
+      "HoTen":"N.T.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"05/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1981,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":668,
+      "HoTen":"N.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1985,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":667,
+      "HoTen":"N.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1982,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":666,
+      "HoTen":"N.V.C",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1927,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":665,
+      "HoTen":"T.T.C.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1998,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":664,
+      "HoTen":"M.T.P.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2008,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":663,
+      "HoTen":"N.T.B.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2008,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":662,
+      "HoTen":"M.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1968,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":661,
+      "HoTen":"P.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1934,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":660,
+      "HoTen":"N.T.C.V",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1988,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":659,
+      "HoTen":"M.T.V",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1972,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":658,
+      "HoTen":"M.T.G",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1968,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":657,
+      "HoTen":"L.T.L.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1972,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":656,
+      "HoTen":"N.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1966,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":655,
+      "HoTen":"L.Q.A.Q",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2012,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":654,
+      "HoTen":"D.M.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1980,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":653,
+      "HoTen":"T.T.P.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1986,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":652,
+      "HoTen":"T.T.H.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1982,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":651,
+      "HoTen":"N.T.H",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1953,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":650,
+      "HoTen":"N.V.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1982,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":649,
+      "HoTen":"H.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1969,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":648,
+      "HoTen":"L.N.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1972,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":647,
+      "HoTen":"P.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1952,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":646,
+      "HoTen":"N.N.Q",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"04/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1990,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":642,
+      "HoTen":"L.VH",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1970,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":641,
+      "HoTen":"N.T.M.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2000,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":640,
+      "HoTen":"H.T.H.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1982,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":639,
+      "HoTen":"H.T.T.V",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1988,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":638,
+      "HoTen":"H.C.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1997,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":637,
+      "HoTen":"D.M.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1995,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":636,
+      "HoTen":"H.T.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1953,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":635,
+      "HoTen":"N.T.M",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1942,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":634,
+      "HoTen":"P.T.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1966,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":633,
+      "HoTen":"M.T.X.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1977,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":632,
+      "HoTen":"N.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1952,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":631,
+      "HoTen":"P.T.X",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1959,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":630,
+      "HoTen":"D.P.K",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1966,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":629,
+      "HoTen":"P.T.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1993,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":628,
+      "HoTen":"N.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"03/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1977,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":619,
+      "HoTen":"P.T.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1994,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":618,
+      "HoTen":"T.P.M",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1973,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":617,
+      "HoTen":"N.T.M",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1989,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":616,
+      "HoTen":"N.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1986,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":615,
+      "HoTen":"T.T.K.O",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1993,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":614,
+      "HoTen":"L.T.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1978,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":613,
+      "HoTen":"P.T.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1991,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":612,
+      "HoTen":"N.V.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1995,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":611,
+      "HoTen":"L.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1990,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":610,
+      "HoTen":"D.T.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1990,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":609,
+      "HoTen":"H.T.C.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1989,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":608,
+      "HoTen":"M.D.X",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1956,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":607,
+      "HoTen":"L.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1964,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":606,
+      "HoTen":"D.V.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1980,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":605,
+      "HoTen":"L.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1968,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":604,
+      "HoTen":"N.T.D.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"02/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1969,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":586,
+      "HoTen":"N.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1987,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":585,
+      "HoTen":"Dang cap nhat",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":61,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":584,
+      "HoTen":"Dang cap nhat",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":23,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":583,
+      "HoTen":"Dang cap nhat",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":33,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":582,
+      "HoTen":"N.T.K.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1965,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":581,
+      "HoTen":"N.K.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1996,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":580,
+      "HoTen":"Dang cap nhat",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":46,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":579,
+      "HoTen":"P.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1978,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":578,
+      "HoTen":"N.X.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1934,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":577,
+      "HoTen":"P.T.C",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1947,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":576,
+      "HoTen":"T.T.T.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1988,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":575,
+      "HoTen":"L.T.B",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1938,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":574,
+      "HoTen":"L.T.V",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1952,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":573,
+      "HoTen":"K.TM",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1959,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":572,
+      "HoTen":"P.H.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1972,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":571,
+      "HoTen":"H.N.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1985,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":570,
+      "HoTen":"T.N.Q.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2011,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":569,
+      "HoTen":"N.T.N.A",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1985,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":558,
+      "HoTen":"N.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1948,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":557,
+      "HoTen":"D.G.A",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2018,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":556,
+      "HoTen":"N.T.M",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1991,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":555,
+      "HoTen":"V.V.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1987,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":554,
+      "HoTen":"D.P.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1983,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":553,
+      "HoTen":"N.H.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1995,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":552,
+      "HoTen":"D.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"01/08/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1942,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":509,
+      "HoTen":"V.T.K.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1974,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":508,
+      "HoTen":"N.H.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1989,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":507,
+      "HoTen":"B.V.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1963,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":506,
+      "HoTen":"N. L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1951,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":505,
+      "HoTen":"D.T.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1963,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":504,
+      "HoTen":"T.T.T.A",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1969,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":503,
+      "HoTen":"N.T.B.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1991,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":502,
+      "HoTen":"L. K.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1960,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":501,
+      "HoTen":"N.T. T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1962,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":500,
+      "HoTen":"N.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1979,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":499,
+      "HoTen":"T.T.B.T",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1952,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":498,
+      "HoTen":"T.T.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1975,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":497,
+      "HoTen":"T.S.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1952,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":496,
+      "HoTen":"N.V.D",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1965,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":495,
+      "HoTen":"T.T.L.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1990,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":494,
+      "HoTen":"N.T.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1979,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":493,
+      "HoTen":"N. T. H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1958,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":492,
+      "HoTen":"L.V.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1993,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":491,
+      "HoTen":"T. N. N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1950,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":490,
+      "HoTen":"L. N. A",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1993,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":489,
+      "HoTen":"H. T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1949,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":488,
+      "HoTen":"M.X.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1953,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":487,
+      "HoTen":"V. V. B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1954,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":486,
+      "HoTen":"N.V.S",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1956,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":485,
+      "HoTen":"T. T. N",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1965,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":484,
+      "HoTen":"L.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1961,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":483,
+      "HoTen":"T. T. M",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1983,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":482,
+      "HoTen":"D.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1938,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":481,
+      "HoTen":"P.T.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1965,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":480,
+      "HoTen":"D.T.X.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1961,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":479,
+      "HoTen":"L. N",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1933,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":478,
+      "HoTen":"P.V.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1940,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":477,
+      "HoTen":"L.T.S",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1964,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":476,
+      "HoTen":"H.T.N.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1993,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":475,
+      "HoTen":"D.T.L",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1937,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":474,
+      "HoTen":"T . T. L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1952,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":473,
+      "HoTen":"L.T.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1982,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":472,
+      "HoTen":"B. E",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1969,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":471,
+      "HoTen":"L. T. T. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1978,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":470,
+      "HoTen":"B.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1953,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":469,
+      "HoTen":"T.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1968,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":468,
+      "HoTen":"T.T.M.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1978,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":467,
+      "HoTen":"D.T.N.C",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1978,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":466,
+      "HoTen":"L.V. T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1966,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":465,
+      "HoTen":"M. T. L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"31/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1991,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":458,
+      "HoTen":"H.T.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"30/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1982,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":457,
+      "HoTen":"N.D.M",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"30/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1950,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":456,
+      "HoTen":"D.T.T",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"30/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1965,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":455,
+      "HoTen":"N.T.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"30/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1998,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":454,
+      "HoTen":"L.T.N.A",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"30/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1955,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":453,
+      "HoTen":"T.T.S",
+      "TinhTrang":"Tu vong (khong phai do Covid)",
+      "NgayCongBo":"30/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1964,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":452,
+      "HoTen":"H.V.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"30/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1968,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":451,
+      "HoTen":"N.T.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"30/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1984,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":446,
+      "HoTen":"L.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"29/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1981,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":445,
+      "HoTen":"T.T.N.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"29/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1959,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":444,
+      "HoTen":"N.T.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"29/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":2001,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":443,
+      "HoTen":"L.T.B",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"29/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1957,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":442,
+      "HoTen":"T.T.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"29/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1965,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":441,
+      "HoTen":"N.T.O",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"29/07/2020",
+      "TinhThanh":"Quang Ngai",
+      "NamSinh":1978,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":440,
+      "HoTen":"T.T.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"29/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1980,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":439,
+      "HoTen":"L.T.V.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"29/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1953,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":438,
+      "HoTen":"D.N.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"28/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1964,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":437,
+      "HoTen":"N.H.L",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"28/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1959,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":436,
+      "HoTen":"N.V.M",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"28/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1954,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":435,
+      "HoTen":"N.Y.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"28/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1991,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":434,
+      "HoTen":"H.T.N",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"28/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1949,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":431,
+      "HoTen":"N.K",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"27/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1965,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":430,
+      "HoTen":"T.T.N.V",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"27/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1987,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":429,
+      "HoTen":"N.T.L",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"27/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1967,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":428,
+      "HoTen":"B.T",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"27/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1950,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":427,
+      "HoTen":"T.T.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"27/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1975,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":426,
+      "HoTen":"T.T.P",
+      "TinhTrang":"Tu vong",
+      "NgayCongBo":"27/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1958,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":425,
+      "HoTen":"N.T.H.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"27/07/2020",
+      "TinhThanh":"Quang Nam",
+      "NamSinh":1996,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":424,
+      "HoTen":"N.T.M.L",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"27/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1962,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":423,
+      "HoTen":"H.T.T",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"27/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1979,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":422,
+      "HoTen":"N.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"27/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1957,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":421,
+      "HoTen":"L.D.H",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"27/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1994,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":420,
+      "HoTen":"P.T.B.P",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"26/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1949,
+      "GioiTinh":"Nu"
+   },
+   {
+      "BenhNhanSo":418,
+      "HoTen":"N.V.N",
+      "TinhTrang":"Tu vong (khong phai do Covid)",
+      "NgayCongBo":"26/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1959,
+      "GioiTinh":"Nam"
+   },
+   {
+      "BenhNhanSo":416,
+      "HoTen":"T.V.D",
+      "TinhTrang":"Da khoi benh",
+      "NgayCongBo":"25/07/2020",
+      "TinhThanh":"Da Nang",
+      "NamSinh":1963,
+      "GioiTinh":"Nam"
+   }
+]
