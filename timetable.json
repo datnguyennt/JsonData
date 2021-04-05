@@ -1,0 +1,214 @@
+﻿{
+  "ThoiKhoaBieu": [
+    {
+      "MaHK": "119",
+      "NamHoc": "2020-2021",
+      "MonHoc": [
+        {
+          "LopHP": "120LTTD02",
+          "MonHoc": "Lap trinh tren DTDD",
+          "Thu": "2",
+          "TuTiet": "3",
+          "DenTiet": "4",
+          "GiangVien": "Do Phu Huy",
+          "Phong": "A107"
+        },
+        {
+          "LopHP": "120TTKCSDL01",
+          "MonHoc": "TTCM Thiet Ke CSDL",
+          "Thu": "2",
+          "TuTiet": "6",
+          "DenTiet": "6",
+          "GiangVien": "Hoang Thi My Le",
+          "Phong": "VPK"
+        },
+        {
+          "LopHP": "120TCNX06",
+          "MonHoc": "TH Cong Nghe XML",
+          "Thu": "2",
+          "TuTiet": "9",
+          "DenTiet": "10",
+          "GiangVien": "Nguyen Thi Thuy Hoai",
+          "Phong": "PMT"
+        },
+        {
+          "LopHP": "120TLTWNC06",
+          "MonHoc": "TH Lap Trinh Web Nang Cao",
+          "Thu": "3",
+          "TuTiet": "7",
+          "DenTiet": "8",
+          "GiangVien": "Do Phu Huy",
+          "Phong": "PMT"
+        },
+        {
+          "LopHP": "120CNX01",
+          "MonHoc": "Cong Nghe XML",
+          "Thu": "4",
+          "TuTiet": "1",
+          "DenTiet": "2",
+          "GiangVien": "Ngo Le Quan",
+          "Phong": "A210"
+        },
+        {
+          "LopHP": "120TQTM01",
+          "MonHoc": "TH Quan Tri Mang",
+          "Thu": "4",
+          "TuTiet": "3",
+          "DenTiet": "4",
+          "GiangVien": "Nguyen Van Phat",
+          "Phong": "PMT"
+        },
+        {
+          "LopHP": "120BTMT01",
+          "MonHoc": "Bao Tri May Tinh",
+          "Thu": "4",
+          "TuTiet": "9",
+          "DenTiet": "11",
+          "GiangVien": "Le Vu",
+          "Phong": "A107"
+        },
+        {
+          "LopHP": "120HDH02",
+          "MonHoc": "He Dieu Hanh",
+          "Thu": "5",
+          "TuTiet": "1",
+          "DenTiet": "2",
+          "GiangVien": "Doan Duy Binh",
+          "Phong": "A213"
+        },
+        {
+          "LopHP": "120LTCBVC01",
+          "MonHoc": "Lap Trinh Co Ban Voi C",
+          "Thu": "5",
+          "TuTiet": "7",
+          "DenTiet": "10",
+          "GiangVien": "Hoang Thi My Le",
+          "Phong": "A206"
+        },
+        {
+          "LopHP": "120TLTTD04",
+          "MonHoc": "TH Lap Trinh DTDD",
+          "Thu": "6",
+          "TuTiet": "7",
+          "DenTiet": "8",
+          "GiangVien": "Do Phu Huy",
+          "Phong": "PMT"
+        },
+        {
+          "LopHP": "120QTM02",
+          "MonHoc": "Quan Tri Mang",
+          "Thu": "7",
+          "TuTiet": "3",
+          "DenTiet": "4",
+          "GiangVien": "Nguyen The Xuan Ly",
+          "Phong": "A101"
+        }
+      ]
+    },
+    {
+      "MaHK": "220",
+      "NamHoc": "2020-2021",
+      "MonHoc": [
+        {
+          "LopHP": "220ANHT01",
+          "MonHoc": "An Ninh He Thong",
+          "Thu": "4",
+          "TuTiet": "1",
+          "DenTiet": "2",
+          "GiangVien": "Nguyen Thi Le Quyen",
+          "Phong": "A102"
+        },
+        {
+          "LopHP": "220CCSDL03",
+          "MonHoc": "Chuyen De Co So Du Lieu",
+          "Thu": "4",
+          "TuTiet": "3",
+          "DenTiet": "5",
+          "GiangVien": "Nguyen Thi Thuy Hoai",
+          "Phong": "PMT"
+        },
+        {
+          "LopHP": "220TLTM06",
+          "MonHoc": "TH Lap Trinh Mang",
+          "Thu": "5",
+          "TuTiet": "1",
+          "DenTiet": "2",
+          "GiangVien": "Nguyen Van Phat",
+          "Phong": "PMT"
+        },
+        {
+          "LopHP": "220WIFI01",
+          "MonHoc": "Cong Nghe Mang Khong Day",
+          "Thu": "5",
+          "TuTiet": "3",
+          "DenTiet": "5",
+          "GiangVien": "Le Vu",
+          "Phong": "A105"
+        },
+        {
+          "LopHP": "220TKGDND01",
+          "MonHoc": "Thiet Ke Giao Dien Nguoi Dung",
+          "Thu": "5",
+          "TuTiet": "7",
+          "DenTiet": "8",
+          "GiangVien": "Nguyen Thi Ha Quyen",
+          "Phong": "A214"
+        },
+        {
+          "LopHP": "220TTNT03",
+          "MonHoc": "Tri Tue Nhan Tao",
+          "Thu": "5",
+          "TuTiet": "9",
+          "DenTiet": "11",
+          "GiangVien": "Pham Tuan",
+          "Phong": "A304"
+        },
+        {
+          "LopHP": "220LTM02",
+          "MonHoc": "Lap Trinh Mang",
+          "Thu": "6",
+          "TuTiet": "1",
+          "DenTiet": "2",
+          "GiangVien": "Nguyen Van Phat",
+          "Phong": "A207"
+        },
+        {
+          "LopHP": "220DAPM05",
+          "MonHoc": "Do An Phan Mem I",
+          "Thu": "6",
+          "TuTiet": "6",
+          "DenTiet": "6",
+          "GiangVien": "Hoang Thi My Le",
+          "Phong": "VPK"
+        },
+        {
+          "LopHP": "220LTC03",
+          "MonHoc": "Lap Trinh C",
+          "Thu": "6",
+          "TuTiet": "7",
+          "DenTiet": "8",
+          "GiangVien": "Le Thi Bich Tra",
+          "Phong": "A211"
+        },
+        {
+          "LopHP": "220NNCNC04",
+          "MonHoc": "Ngoai Ngu Chuyen Nganh CNTT",
+          "Thu": "6",
+          "TuTiet": "9",
+          "DenTiet": "10",
+          "GiangVien": "Vo Trung Hung",
+          "Phong": "A107"
+        },
+        {
+          "LopHP": "220T LTC01",
+          "MonHoc": "TH Lap Trinh C",
+          "Thu": "7",
+          "TuTiet": "1",
+          "DenTiet": "2",
+          "GiangVien": "Nguyen Thi Thuy Hoai",
+          "Phong": "PMT"
+        }
+      ]
+    }
+  ]
+}

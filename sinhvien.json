@@ -1,0 +1,137 @@
+[
+  {
+    "MaSV": 1,
+    "Ten": "Vo Van Thang",
+    "Lop": "18T1",
+    "GioiTinh": "Nam",
+    "NgaySinh": "25/11/2000",
+    "QueQuan": "Quang Nam",
+    "DiemTB": 8.5
+  },
+  {
+    "MaSV": 2,
+    "Ten": "Dang Minh Hieu",
+    "Lop": "18T1",
+    "GioiTinh": "Nam",
+    "NgaySinh": "31/2/2000",
+    "QueQuan": "Quang Nam",
+    "DiemTB": 8.9
+  },
+  {
+    "MaSV": 3,
+    "Ten": "Hua Minh Dat",
+    "Lop": "18T2",
+    "GioiTinh": "Nam",
+    "NgaySinh": "02/04/2000",
+    "QueQuan": "Binh Dinh",
+    "DiemTB": 7
+  },
+  {
+    "MaSV": 4,
+    "Ten": "Ngo Thi Ha",
+    "Lop": "19D3",
+    "GioiTinh": "Nu",
+    "NgaySinh": "02/05/2001",
+    "QueQuan": "Quang Binh",
+    "DiemTB": 7.5
+  },
+  {
+    "MaSV": 5,
+    "Ten": "Nguyen Van Thang",
+    "Lop": "18T3",
+    "GioiTinh": "Nam",
+    "NgaySinh": "25/10/2000",
+    "QueQuan": "Quang Tri",
+    "DiemTB": 8.5
+  },
+  {
+    "MaSV": 6,
+    "Ten": "Ngo Van Hieu",
+    "Lop": "19DL1",
+    "GioiTinh": "Nam",
+    "NgaySinh": "31/12/2001",
+    "QueQuan": "Quang Ngai",
+    "DiemTB": 5.5
+  },
+  {
+    "MaSV": 7,
+    "Ten": "Nguyen Thi Hang",
+    "Lop": "20T1",
+    "GioiTinh": "Nu",
+    "NgaySinh": "12/03/2002",
+    "QueQuan": "Phu Yen",
+    "DiemTB": 5
+  },
+  {
+    "MaSV": 8,
+    "Ten": "Le Thi Duyen",
+    "Lop": "20T1",
+    "GioiTinh": "Nu",
+    "NgaySinh": "02/06/2002",
+    "QueQuan": "Quang Binh",
+    "DiemTB": 6.5
+  },
+  {
+    "MaSV": 9,
+    "Ten": "Pham Thi Thanh Thuy",
+    "Lop": "20T3",
+    "GioiTinh": "Nu",
+    "NgaySinh": "30/04/2002",
+    "QueQuan": "Ha Tinh",
+    "DiemTB": 7
+  },
+  {
+    "MaSV": 10,
+    "Ten": "Phan Van Lam",
+    "Lop": "19T3",
+    "GioiTinh": "Nam",
+    "NgaySinh": "22/03/2001",
+    "QueQuan": "Hue",
+    "DiemTB": 7.7
+  },
+  {
+    "MaSV": 11,
+    "Ten": "Ngo Hoang Lam",
+    "Lop": "19DL1",
+    "GioiTinh": "Nam",
+    "NgaySinh": "31/12/2001",
+    "QueQuan": "Quang Nam",
+    "DiemTB": 5.5
+  },
+  {
+    "MaSV": 12,
+    "Ten": "Le Van Huy",
+    "Lop": "20T1",
+    "GioiTinh": "Nam",
+    "NgaySinh": "12/03/2002",
+    "QueQuan": "Quang Ngai",
+    "DiemTB": 5
+  },
+  {
+    "MaSV": 13,
+    "Ten": "Le Thi Khanh Ly",
+    "Lop": "20T1",
+    "GioiTinh": "Nu",
+    "NgaySinh": "02/06/2002",
+    "QueQuan": "Quang Tri",
+    "DiemTB": 6.5
+  },
+  {
+    "MaSV": 14,
+    "Ten": "Pham Thi Thuy Van",
+    "Lop": "20T3",
+    "GioiTinh": "Nu",
+    "NgaySinh": "30/04/2002",
+    "QueQuan": "Nghe An",
+    "DiemTB": 7
+  },
+  {
+    "MaSV": 15,
+    "Ten": "Nguyen Thanh Dat",
+    "Lop": "19T3",
+    "GioiTinh": "Nam",
+    "NgaySinh": "22/03/2001",
+    "QueQuan": "Thanh Hoa",
+    "DiemTB": 7.7
+  }
+]

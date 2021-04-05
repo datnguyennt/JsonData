@@ -1,0 +1,296 @@
+[
+   {
+      "MaHP":5209001,
+      "TenHocPhan":"Duong loi CM cua DCSVN",
+      "SoTC":3,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5209004,
+      "TenHocPhan":"Tu tuong Ho Chi Minh",
+      "SoTC":2,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505177,
+      "TenHocPhan":"Ly thuyet do thi",
+      "SoTC":2,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505132,
+      "TenHocPhan":"Cong nghe phan mem",
+      "SoTC":2,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505135,
+      "TenHocPhan":"Cong Nghe XML",
+      "SoTC":2,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505141,
+      "TenHocPhan":"Do an Tot nghiep CNTT",
+      "SoTC":10,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505143,
+      "TenHocPhan":"Do an phan mem I",
+      "SoTC":2,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505158,
+      "TenHocPhan":"Hoc ky doanh nghiep CNTT",
+      "SoTC":5,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505169,
+      "TenHocPhan":"Lap trinh Java nang cao",
+      "SoTC":2,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505172,
+      "TenHocPhan":"Lap trinh tren DTDD",
+      "SoTC":2,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505173,
+      "TenHocPhan":"Lap trinh truc quan",
+      "SoTC":2,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505175,
+      "TenHocPhan":"Lap trinh web nang cao",
+      "SoTC":2,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505183,
+      "TenHocPhan":"Ngoai ngu chuyen nganh CNTT",
+      "SoTC":2,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505188,
+      "TenHocPhan":"Phan tich thiet ke huong doi tuong",
+      "SoTC":3,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505192,
+      "TenHocPhan":"Quan tri Mang",
+      "SoTC":2,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505203,
+      "TenHocPhan":"TH Lap trinh Java nang cao",
+      "SoTC":1,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505206,
+      "TenHocPhan":"TH Lap trinh tren DTDD",
+      "SoTC":1,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505208,
+      "TenHocPhan":"TH Lap trinh web nang cao",
+      "SoTC":1,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505212,
+      "TenHocPhan":"TH Quan tri Mang",
+      "SoTC":1,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505226,
+      "TenHocPhan":"Tri tue nhan tao",
+      "SoTC":3,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5505231,
+      "TenHocPhan":"TTCM Thiet ke Co so du lieu",
+      "SoTC":1,
+      "LoaiMonHoc":"HP bat buoc"
+   },
+   {
+      "MaHP":5502007,
+      "TenHocPhan":"Kinh te hoc vi mo",
+      "SoTC":3,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505038,
+      "TenHocPhan":"Ky Thuat Dien Tu",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505119,
+      "TenHocPhan":"An ninh he thong",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505120,
+      "TenHocPhan":"Bao tri may tinh",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505122,
+      "TenHocPhan":"Chuyen de Co so du lieu",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505123,
+      "TenHocPhan":"Chuyen de do hoa",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505124,
+      "TenHocPhan":"Chuyen de mang",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505126,
+      "TenHocPhan":"Chuyen de phan mem",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505130,
+      "TenHocPhan":"Cong cu va moi truong ma nguon mo",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505131,
+      "TenHocPhan":"Cong nghe mang khong day",
+      "SoTC":3,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505136,
+      "TenHocPhan":"CSDL phi quan he",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505138,
+      "TenHocPhan":"Dien toan dam may",
+      "SoTC":1,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505147,
+      "TenHocPhan":"Do hoa da truyen thong",
+      "SoTC":1,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505148,
+      "TenHocPhan":"Do hoa may tinh",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505149,
+      "TenHocPhan":"Do hoa ung dung",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505155,
+      "TenHocPhan":"He dieu hanh",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505157,
+      "TenHocPhan":"He thong thong tin quan ly",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505160,
+      "TenHocPhan":"Ke toan may",
+      "SoTC":3,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505161,
+      "TenHocPhan":"Kho du lieu-Khai pha du lieu",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505162,
+      "TenHocPhan":"Kiem thu phan mem",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505165,
+      "TenHocPhan":"Lap trinh .NET",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505171,
+      "TenHocPhan":"Lap trinh mang",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505180,
+      "TenHocPhan":"Mang dien rong",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505185,
+      "TenHocPhan":"Nguyen ly ke toan",
+      "SoTC":3,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505189,
+      "TenHocPhan":"Phat trien He thong thong tin",
+      "SoTC":3,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505190,
+      "TenHocPhan":"Quan tri du an CNTT",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505191,
+      "TenHocPhan":"Quan tri hoc",
+      "SoTC":2,
+      "LoaiMonHoc":"Tu chon BB"
+   },
+   {
+      "MaHP":5505193,
+      "TenHocPhan":"TH Lap trinh .NET",
+      "SoTC":1,
+      "LoaiMonHoc":"Tu chon BB"
+   }
+]
